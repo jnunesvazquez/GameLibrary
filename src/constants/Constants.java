@@ -17,4 +17,8 @@ public class Constants {
     // Atributos de los laseres
 
     public static final double LASER_VEL = 15.0;            //Velocidad del laser
+
+    //Atributos del meteorito
+
+    public static final double METEOR_VEL = 2.0;            //Velocidad del meteorito
 }
