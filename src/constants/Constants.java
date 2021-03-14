@@ -21,4 +21,5 @@ public class Constants {
     //Atributos del meteorito
 
     public static final double METEOR_VEL = 2.0;            //Velocidad del meteorito
+    public static final int METEOR_SCORE = 20;              //Ountos por destruir meteorito
 }
