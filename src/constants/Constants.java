@@ -22,4 +22,10 @@ public class Constants {
 
     public static final double METEOR_VEL = 2.0;            //Velocidad del meteorito
     public static final int METEOR_SCORE = 20;              //Ountos por destruir meteorito
+
+    //Reaparecer
+
+    public static final long FLICKER_TIME=200;              //Tiempo de invencivilidad mientras reapareces
+    public static final long SPAWNING_TIME=3000;            //Tiempo antes de reaparecer
+
 }
