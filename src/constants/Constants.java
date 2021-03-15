@@ -28,4 +28,9 @@ public class Constants {
     public static final long FLICKER_TIME=200;              //Tiempo de invencivilidad mientras reapareces
     public static final long SPAWNING_TIME=3000;            //Tiempo antes de reaparecer
 
+    //Texto del menu
+
+    public static final String PLAY = "PLAY";
+    public static final String EXIT = "EXIT";
+
 }
