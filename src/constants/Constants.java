@@ -20,13 +20,14 @@ public class Constants {
 
     //Atributos del meteorito
 
-    public static final double METEOR_VEL = 2.0;            //Velocidad del meteorito
+    public static final double METEOR_VEL = 2.0;            //Velocidad inicial del meteorito
     public static final int METEOR_SCORE = 20;              //Ountos por destruir meteorito
 
     //Reaparecer
 
     public static final long FLICKER_TIME=200;              //Tiempo de invencivilidad mientras reapareces
     public static final long SPAWNING_TIME=3000;            //Tiempo antes de reaparecer
+    public static final long GAME_OVER_TIME = 3000;         //Tiempo del game over hasta la vuelta al menu
 
     //Texto del menu
 
