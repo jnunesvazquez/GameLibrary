@@ -33,8 +33,8 @@ public class Constants {
 
     public static final String PLAY = "PLAY";
     public static final String EXIT = "EXIT";
-    public static final String PLAYER_A = "SHIP A\nBLUE LASER";
-    public static final String PLAYER_B = "SHIP B\nGREEN LASER";
-    public static final String PLAYER_C = "SHIP C\nRED LASER";
+    public static final String PLAYER_A = "SHIP A  BLUE LASER";
+    public static final String PLAYER_B = "SHIP B  GREEN LASER";
+    public static final String PLAYER_C = "SHIP C  RED LASER";
 
 }
