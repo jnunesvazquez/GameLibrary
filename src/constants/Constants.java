@@ -1,5 +1,8 @@
 package constants;
 
+/**
+ * Clase para almacenar nuestras constantes
+ */
 public class Constants {
 
     // Dimensiones de la ventana
