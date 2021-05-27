@@ -7,8 +7,8 @@ public class Constants {
 
     // Dimensiones de la ventana
 
-    public static final int WIDTH = 1000;                   //Alto de la ventana
-    public static final int HEIGHT = 600;                   //Ancho de la ventana
+    public static final int WIDTH = 1280;                   //Alto de la ventana
+    public static final int HEIGHT = 720;                   //Ancho de la ventana
 
     // Atributos del jugador
 
